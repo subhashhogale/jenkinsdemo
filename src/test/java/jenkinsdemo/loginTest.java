@@ -18,7 +18,7 @@ public class loginTest {
 		driver.findElement(By.id("submit")).click();
 		
 		System.out.println("succefully loging..............");
-			System.out.println("succefully logout..............");
+			System.out.println("succefully logout1..............");
 
 	}
 
